@@ -59,8 +59,10 @@ public class UserController {
         return "welcome";
     }
 
+
     @GetMapping("/about")
     public String about(Model model){
         return "about";
     }
+
 }
