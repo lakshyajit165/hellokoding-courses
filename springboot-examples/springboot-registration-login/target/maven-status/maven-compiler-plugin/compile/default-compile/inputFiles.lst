@@ -5,9 +5,11 @@
 /home/lakshyajit/workspace/springboot_jsp/springboot-examples/springboot-registration-login/src/main/java/com/hellokoding/auth/WebSecurityConfig.java
 /home/lakshyajit/workspace/springboot_jsp/springboot-examples/springboot-registration-login/src/main/java/com/hellokoding/auth/repository/UserRepository.java
 /home/lakshyajit/workspace/springboot_jsp/springboot-examples/springboot-registration-login/src/main/java/com/hellokoding/auth/model/Role.java
+/home/lakshyajit/workspace/springboot_jsp/springboot-examples/springboot-registration-login/src/main/java/com/hellokoding/auth/exception/AppException.java
 /home/lakshyajit/workspace/springboot_jsp/springboot-examples/springboot-registration-login/src/main/java/com/hellokoding/auth/service/UserDetailsServiceImpl.java
 /home/lakshyajit/workspace/springboot_jsp/springboot-examples/springboot-registration-login/src/main/java/com/hellokoding/auth/service/UserServiceImpl.java
 /home/lakshyajit/workspace/springboot_jsp/springboot-examples/springboot-registration-login/src/main/java/com/hellokoding/auth/WebApplication.java
 /home/lakshyajit/workspace/springboot_jsp/springboot-examples/springboot-registration-login/src/main/java/com/hellokoding/auth/service/SecurityService.java
 /home/lakshyajit/workspace/springboot_jsp/springboot-examples/springboot-registration-login/src/main/java/com/hellokoding/auth/repository/RoleRepository.java
 /home/lakshyajit/workspace/springboot_jsp/springboot-examples/springboot-registration-login/src/main/java/com/hellokoding/auth/web/UserController.java
+/home/lakshyajit/workspace/springboot_jsp/springboot-examples/springboot-registration-login/src/main/java/com/hellokoding/auth/model/RoleName.java

@@ -9,5 +9,7 @@ com/hellokoding/auth/model/User.class
 com/hellokoding/auth/service/UserServiceImpl.class
 com/hellokoding/auth/repository/UserRepository.class
 com/hellokoding/auth/model/Role.class
+com/hellokoding/auth/model/RoleName.class
+com/hellokoding/auth/exception/AppException.class
 com/hellokoding/auth/service/UserService.class
 com/hellokoding/auth/validator/UserValidator.class
